@@ -1,0 +1,22 @@
+From 42da3334c0dc8648a679a3b7674ae7b4b14fea04 Mon Sep 17 00:00:00 2001
+From: jerry <jerry@example.com>
+Date: Sat, 17 Aug 2019 10:32:52 +0000
+Subject: [PATCH] changes to be patched
+
+---
+ payments1.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/payments1.txt b/payments1.txt
+index 71df567..38f2bf3 100644
+--- a/payments1.txt
++++ b/payments1.txt
+@@ -1,3 +1,5 @@
+  This is a fix which tom added for urgent problem.
++new line added
+ changes in the file 
+ ----------adding 1st line
++added one more line
+-- 
+2.17.1
+
